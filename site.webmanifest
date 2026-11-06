@@ -1,9 +1,9 @@
 {
-  "name": "Lejun Li",
+  "name": "Lejun Li · 个人导航",
   "short_name": "Lejun Li",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#f3f0e8",
-  "theme_color": "#f3f0e8",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "icons": [{"src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
 }
